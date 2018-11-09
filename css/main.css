@@ -2069,7 +2069,7 @@ input::-moz-focus-inner {
   content: "";
   width: calc(50% - 200px);
   height: 100vh;
-  background-image: url(../images/trash.JPG);
+  background-image: url(../images/trash.png);
   background-origin: center top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2218,7 +2218,7 @@ input::-moz-focus-inner {
   line-height: 5.6rem;
   text-transform: uppercase;
   letter-spacing: .3rem;
-  color: #000000;
+  color: white;
   border-bottom: 1px solid transparent;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
