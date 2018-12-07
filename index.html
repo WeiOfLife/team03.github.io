@@ -85,7 +85,7 @@
                 </h1>
 
                 <h3>
-                Recyclying. Revolutionized.
+                Revolutionizing Recycling.
                 </h3>
 
                 <div class="home-content__button">
@@ -116,13 +116,17 @@
                     Cyc-Sort
                 </h1>
                 <p class="lead">
-                    When learning how to score baskets in basketball, beginner-level learners often train with basketball stands that are height-adjustable since a lower basket is easier to score. Learners can manually raise or lower the stand to increase or decrease difficulty. To be able to vary the task difficulty under computer-control, our adaptive basketball setup has a motor in the base that can raise and lower the stand based on input from a micro-controller. To give the prototype an additional dimension for adaptation, we also made the hoop adjustable, i.e., the hoop can widen and tighten using a second motor.
+                    When people throw away their diposables, they often have difficulty determining what is recyclable and what is not.
+                    Due to this, many default to throwing their disposables in the trash. Even worse, sometimes trash ends up in recycling, which
+                    can cause everything else in the recycling bin to be disposed as trash. To encourage more recycling and to make sure it's done right, 
+                    Cyc-Sort uses a motor controlled platform and computer vision technology to automatically sort people's disposables. 
                 </p>
             </div>
         </div> <!-- end section-header -->
 
 
         <div class="row about-bottom-image" data-aos="fade-up">
+            <h2 class = "display-2">What it looks like:</h2>
             <img src="images/project/rotoscope.jpg" style="padding-bottom: 100px">
 
          </div>
@@ -140,54 +144,43 @@
             </div>
         </div>
 
-<h3 class="headline"><a name="Sensors" style="color:black;border:none;">Sensors</a></h3>
+        <h3 class="display-1" data-aos="fade-up"><a name="Sensors" style = "color:white;border-bottom: 1px solid white;padding-right: 250px" >Sensors</a></h3>
+            <div class="content" data-aos="fade-up" style = "margin-left:7%">
+                    <img style = "margin-bottom: 5%"src="images/sensors/ultrasonic.jpg" >
+                    <h3 style="color:white;text-align:center">Ultrasonic Sensor</h3>
+                    <p style="color:white;text-align:center" >The ultrasonic sensor on the platform detects when an object is placed in Cyc-Sort, which signals Cyc-Sort to start classifying the object.</p>
+            </div>​
 
-			<div class="col-md-6" style="text-align: left;" data-aos="fade-up">
-				<img src="images/sensors/ultrasonic.jpg" width="340px">
-				<br><br>
-				To be able to vary the task difficulty under computer-control, our adaptive basketball setup has a motor in the base that can raise and lower the stand based on input from a micro-controller. To give the prototype an additional dimension for adaptation, we also made the hoop adjustable, i.e., the hoop can widen and tighten using a second motor.
+            <div class="content" data-aos="fade-up" style = "margin-left:5%">
+                    <img style = "margin-bottom: 5%"src="images/sensors/camera.jpg" >
+                    <h3 style="color:white;text-align:center">Pi Camera</h3>
+                    <p style="color:white;text-align:center" >Once Cyc-Sort gets a signal from the ultrasonice sensor, it uses the Pi camera to take a picture and determine if the object is recyclable or not.</p>
+            </div>​
 
-			</div>
-        	<div class="col-md-6" style="text-align: left;" data-aos="fade-up">
-				<img src="images/sensors/camera.jpg" width="340px">
-				<br><br>
-				To be able to vary the task difficulty under computer-control, our adaptive basketball setup has a motor in the base that can raise and lower the stand based on input from a micro-controller. To give the prototype an additional dimension for adaptation, we also made the hoop adjustable, i.e., the hoop can widen and tighten using a second motor.
+            <div class="content" data-aos="fade-up" style = "margin-left:5%">
+                    <img style = "margin-bottom: 5%"src="images/sensors/distance.jpg" >
+                    <h3 style="color:white;text-align:center">IR Distance Sensor</h3>
+                    <p style="color:white;text-align:center" >Cyc-Sort uses IR Distance Sensors above each compartment to determine the capacity of each bin; if a bin is too full then the lid will close and remain closed until the bin is cleared.</p>
+            </div>​
+    
+    </section>
+    <section id="components" class="s-process" style = "padding-bottom: 10%">
+        <h3 class="display-1" data-aos="fade-up"><a name="Sensors" style = "color:white;border-bottom: 1px solid white;padding-right: 250px" >Actuators</a></h3>
 
-			</div>
+        <div class="content" data-aos="fade-up" style = "margin-left:15%">
+                <img style = "margin-bottom: 5%"src="images/actuators/lid.jpg" >
+                <h3 style="color:white;text-align:center">Lid Servo</h3>
+                <p style="color:white;text-align:center" >Cyc-Sort uses a servo to open and close the lid, which made of living wood.</p>
+        </div>​
 
-        	<div class="col-md-6" style="text-align: left;" data-aos="fade-up">
-				<img src="images/sensors/distance.jpg" width="340px">
-				<br><br>
-				To be able to vary the task difficulty under computer-control, our adaptive basketball setup has a motor in the base that can raise and lower the stand based on input from a micro-controller. To give the prototype an additional dimension for adaptation, we also made the hoop adjustable, i.e., the hoop can widen and tighten using a second motor.
-
-			</div>
-
-   <h3  class="headline"><a name="Sensors" style="color:black;border:none;">Actuators</a></h3>
-
-        <div class="col-md-6" style="text-align: left;" data-aos="fade-up">
-            <img src="images/actuators/lid.jpg" width="340px">
-            <br><br>
-            To be able to vary the task difficulty under computer-control, our adaptive basketball setup has a motor in the base that can raise and lower the stand based on input from a micro-controller. To give the prototype an additional dimension for adaptation, we also made the hoop adjustable, i.e., the hoop can widen and tighten using a second motor.
-
-        </div>
-        <div class="col-md-6" style="text-align: left;" data-aos="fade-up">
-             <div class="col-md-3">
-                 <img src="images/actuators/sorter_exterior.jpg" width="340px">
-
-             </div>
-               <div class="col-md-3">
-                 <img src="images/actuators/sorter_interior.jpg" width="340px">
-
-             </div>
-
-        </div>
-
-        <div class="col-md-6" style="text-align: left;" data-aos="fade-up">
-            To be able to vary the task difficulty under computer-control, our adaptive basketball setup has a motor in the base that can raise and lower the stand based on input from a micro-controller. To give the prototype an additional dimension for adaptation, we also made the hoop adjustable, i.e., the hoop can widen and tighten using a second motor.
-        </div>
+        <div class="content" data-aos="fade-up" style = "margin-left:15%">
+                <img style = "margin-bottom: 5%"src="images/actuators/sorter_interior.jpg" >
+                <h3 style="color:white;text-align:center">Platform Servo</h3>
+                <p style="color:white;text-align:center" >After Cyc-Sort classifies the object, it uses the servo on the platform to place the object in the correct bin by rotating clockwise or counter-clockwise.</p>
+        </div>​
 
 
-
+        <br>
 
 
 
