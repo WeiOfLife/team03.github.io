@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efa5dc6a-40e6-4375-a685-4243f37557e5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/lid.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sorter.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -17,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="423" column="87" lean-forward="false" selection-start-line="423" selection-start-column="87" selection-end-line="423" selection-end-column="87" />
+            <state relative-caret-position="571">
+              <caret line="455" column="0" lean-forward="true" selection-start-line="455" selection-start-column="0" selection-end-line="455" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -54,8 +56,8 @@
                 <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#table#0;n#div#0;n#div#1;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#1;n#a#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1544212684111" expanded="false" signature="7855:9779" ph="..." />
-                <marker date="1544212684111" expanded="false" signature="20405:20411" ph="©" />
+                <marker date="1544220790999" expanded="false" signature="7855:9779" ph="..." />
+                <marker date="1544220790999" expanded="false" signature="20072:20078" ph="©" />
               </folding>
             </state>
           </provider>
@@ -105,8 +107,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="822" />
+    <option name="y" value="-18" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -145,18 +148,6 @@
               <item name="weioflife.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="weioflife.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weioflife.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="actuators" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="weioflife.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weioflife.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="sensors" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -169,14 +160,14 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/index.html" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marti\Documents\MIT Labs\6.810\weioflife.github.io\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marti\Documents\MIT Labs\6.810\weioflife.github.io\images" />
       <recent name="C:\Users\marti\Documents\MIT Labs\6.810\weioflife.github.io\images\actuators" />
       <recent name="C:\Users\marti\Documents\MIT Labs\6.810\weioflife.github.io\images\sensors" />
       <recent name="C:\Users\marti\Documents\MIT Labs\6.810\weioflife.github.io\images\project" />
-      <recent name="C:\Users\marti\Documents\MIT Labs\6.810\weioflife.github.io\images" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\marti\Documents\MIT Labs\6.810\weioflife.github.io\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -205,10 +196,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25887266" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12916666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -275,8 +266,8 @@
             <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#0;n#div#0;n#div#1;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#a#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1544212684111" expanded="false" signature="7855:9779" ph="..." />
-            <marker date="1544212684111" expanded="false" signature="20405:20411" ph="©" />
+            <marker date="1544220790999" expanded="false" signature="7855:9779" ph="..." />
+            <marker date="1544220790999" expanded="false" signature="20072:20078" ph="©" />
           </folding>
         </state>
       </provider>
@@ -328,8 +319,8 @@
             <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#0;n#div#0;n#div#1;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#a#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1544212684111" expanded="false" signature="7855:9779" ph="..." />
-            <marker date="1544212684111" expanded="false" signature="20405:20411" ph="©" />
+            <marker date="1544220790999" expanded="false" signature="7855:9779" ph="..." />
+            <marker date="1544220790999" expanded="false" signature="20072:20078" ph="©" />
           </folding>
         </state>
       </provider>
@@ -381,8 +372,8 @@
             <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#0;n#div#0;n#div#1;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#a#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1544212684111" expanded="false" signature="7855:9779" ph="..." />
-            <marker date="1544212684111" expanded="false" signature="20405:20411" ph="©" />
+            <marker date="1544220790999" expanded="false" signature="7855:9779" ph="..." />
+            <marker date="1544220790999" expanded="false" signature="20072:20078" ph="©" />
           </folding>
         </state>
       </provider>
@@ -434,8 +425,8 @@
             <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#0;n#div#0;n#div#1;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#a#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1544212684111" expanded="false" signature="7855:9779" ph="..." />
-            <marker date="1544212684111" expanded="false" signature="20405:20411" ph="©" />
+            <marker date="1544220790999" expanded="false" signature="7855:9779" ph="..." />
+            <marker date="1544220790999" expanded="false" signature="20072:20078" ph="©" />
           </folding>
         </state>
       </provider>
@@ -487,8 +478,8 @@
             <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#0;n#div#0;n#div#1;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#a#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1544212684111" expanded="false" signature="7855:9779" ph="..." />
-            <marker date="1544212684111" expanded="false" signature="20405:20411" ph="©" />
+            <marker date="1544220790999" expanded="false" signature="7855:9779" ph="..." />
+            <marker date="1544220790999" expanded="false" signature="20072:20078" ph="©" />
           </folding>
         </state>
       </provider>
@@ -540,8 +531,8 @@
             <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#0;n#div#0;n#div#1;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#a#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1544212684111" expanded="false" signature="7855:9779" ph="..." />
-            <marker date="1544212684111" expanded="false" signature="20405:20411" ph="©" />
+            <marker date="1544220790999" expanded="false" signature="7855:9779" ph="..." />
+            <marker date="1544220790999" expanded="false" signature="20072:20078" ph="©" />
           </folding>
         </state>
       </provider>
@@ -572,8 +563,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="423" column="87" lean-forward="false" selection-start-line="423" selection-start-column="87" selection-end-line="423" selection-end-column="87" />
+        <state relative-caret-position="571">
+          <caret line="455" column="0" lean-forward="true" selection-start-line="455" selection-start-column="0" selection-end-line="455" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -609,8 +600,8 @@
             <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#0;n#div#0;n#div#1;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#a#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1544212684111" expanded="false" signature="7855:9779" ph="..." />
-            <marker date="1544212684111" expanded="false" signature="20405:20411" ph="©" />
+            <marker date="1544220790999" expanded="false" signature="7855:9779" ph="..." />
+            <marker date="1544220790999" expanded="false" signature="20072:20078" ph="©" />
           </folding>
         </state>
       </provider>
